@@ -1,6 +1,6 @@
 {
   "name": "makespiral",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "fun little command to make animated spiral in cli",
   "main": "src/index.js",
   "scripts": {
