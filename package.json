@@ -1,0 +1,27 @@
+{
+  "name": "makespiral",
+  "version": "0.0.1",
+  "description": "fun little command to make animated spiral in cli",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Provash Shoumma",
+  "license": "MIT",
+  "bin": {
+    "@shoumma/makespiral": "bin/makespiral.js",
+    "makespiral": "bin/makespiral.js"
+  },
+  "keywords": [
+    "cli",
+    "spiral",
+    "makespiral"
+  ],
+  "dependencies": {
+    "clear": "^0.1.0",
+    "lolcatjs": "^2.4.0"
+  }
+}
