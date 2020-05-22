@@ -1,7 +1,7 @@
 const clear = require('clear');
 const lolcatjs = require('lolcatjs');
 
-const DEFAULT_INTERVAL = 30;
+const DEFAULT_INTERVAL = 50;
 
 /**
  * create a manual delay of printing
