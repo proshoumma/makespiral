@@ -9,6 +9,7 @@ You can install via npm:
 npm install -g makespiral
 ```
 
+
 Then you can use it via cli:
 ```
 makespiral 20
